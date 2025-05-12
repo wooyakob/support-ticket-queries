@@ -21,14 +21,7 @@ This project provides tools to query and analyze customer support tickets stored
 
 ## Cluster Access
 
-1. Create a `.env` file with the following variables:
-   ```bash
-   CLUSTER_ACCESS = ""
-   CB_USERNAME = ""
-   CB_PASSWORD = ""
-   CB_ENDPOINT = ""
-   ```
-
+1. Create a `.env` file with variables in `.env.example`
 2. Set up cluster access credentials in Couchbase Capella.
 3. Add your IP address as an authorized network.
 4. Load the environment variables.
