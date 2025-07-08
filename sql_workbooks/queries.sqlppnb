@@ -1,0 +1,1 @@
+{"cells":[{"kind":2,"language":"SQL++","value":"    SELECT * \n    FROM `customer-support`.`2025-tickets`.`us-customers`\n    WHERE ID = 5;"}]}

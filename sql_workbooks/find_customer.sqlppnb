@@ -1,1 +1,0 @@
-{"cells":[{"kind":2,"language":"SQL++","value":"    SELECT r.*\n    FROM `customer-support`.`2025-tickets`.`us-customers` AS r\n    WHERE r.Customer = \"CloudScale Innovations\";"},{"kind":2,"language":"SQL++","value":""}]}
